@@ -45,7 +45,7 @@ Real-time-object-detection/
 Run the object detection system with:
 ```
 python main.py
-```
+
 
 **Configuration**
 You can configure the system using the following parameters:
