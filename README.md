@@ -104,4 +104,3 @@ You can customize this README by:
 6. Including performance metrics
 7. Adding contact information
 
-Would you like help modifying a specific section or adding more details?
